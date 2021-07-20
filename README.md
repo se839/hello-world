@@ -13,3 +13,5 @@ and me is more p r o d u c t i v e
 bye for now.
 ====
 new entry, more testing in GitHub!
+WELL, TURNS OUT MY TESTS HAVE FAILED ME...
+why are you reading this btw?
