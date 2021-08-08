@@ -15,4 +15,10 @@ bye for now.
 new entry, more testing in GitHub!
 
 ====
+
+WELL, TURNS OUT MY TESTS HAVE FAILED ME...
+why are you reading this btw?
+
+===
+
 i've been studying git for a month now!
